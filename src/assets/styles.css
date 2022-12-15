@@ -1,0 +1,9 @@
+.active {
+    color: red;
+    text-decoration: none;
+}
+
+.noactive {
+    color: aliceblue;
+    text-decoration: none;
+}
